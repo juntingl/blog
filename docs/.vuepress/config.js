@@ -13,7 +13,7 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
   // 部署到github相关的配置
-  base: '/Blog/',
+  base: '/',
   markdown: {
     lineNumber: true, // 显示行号
   },
