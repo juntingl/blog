@@ -10,5 +10,8 @@ features:
   details: 真正的自由，是在所有时侯都能控制自己。计划才能给你真正的自由，你对计划的控制力越强，离自由也就更近了。
 - title: 态度
   details: 生活也许不会像计划那样发生，但对待生活的态度可以是：期待伟大的事情发生，同时也要保持快乐和幸福，即时它没能发生。
-footer: ISC Licensed | Copyright © 2019-present Junting
 ---
+
+:::slot footer
+ISC Licensed | Copyright © 2019-present Junting | <a href="https://beian.miit.gov.cn/" target="_blank">赣ICP备2022003310号-1</a>
+:::
